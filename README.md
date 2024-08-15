@@ -4,7 +4,7 @@
 Hello! My name is Fardeen Khan, and I am from Kadapa, Andhra Pradesh. I have completed my B.Tech in Electronics and Communication Engineering (ECE). I am passionate about technology and have honed my skills in Python, SQL, HTML, CSS, and AWS through my academic journey and hands-on projects.
 
 ## Skills
-- **Programming Languages:** Python, SQL, HTML, CSS
+- **Programming Languages:** Python, Java, SQL, HTML, CSS
 - **Cloud Computing:** AWS (Amazon Web Services)
 - **Web Development:** Front-end design and development
 - **Database Management:** SQL databases
@@ -21,19 +21,19 @@ Hello! My name is Fardeen Khan, and I am from Kadapa, Andhra Pradesh. I have com
 
 ## Projects
 ### Project 1: Smart Protection Agriculture System
-- **Description:** Smart Protection Agriculture System using Iot.
-- **Technologies Used:** Python, IoT
+- Description: A Smart Protection Agriculture System using IoT involves using sensors to monitor things like soil moisture and temperature in a field. This data is sent to a central 
+    system, where it is analyzed. The system can then automatically adjust watering and other conditions, or send alerts to farmers, helping them manage their crops more efficiently and 
+    protect them from adverse conditions.
+- Technologies Used: Python, IoT
 
-### Project 2: Sales Data Analysis Project
-- **Description:** Developed a database to analyze sales data for a retail company.The project involved creating and managing tables,writing queries to extract meaningful insights,and optimizing query performance.
-- **Technologies Used:** SQL
-- **Key Features:**
-  - Data Defining
-  - Data Manipulating
-  - Data Analyse and more.
+### Project 2: Shopping Website using Html and Css
+- Description: Designed and developed a shopping website using HTML and CSS. Implemented responsive design principles to ensure compatibility across various devices.
+- Technologies Used: Html and Css
 
 ## Contact
-- **Email:** Pathanfardeen555@gmail.com
+- Phone:6303165552
+- Email: Pathanfardeen555@gmail.com
+- LinkedIn: https://www.linkedin.com/in/patan-fardeen-khan-105220312/
   
 
 ## Additional Information
