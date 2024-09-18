@@ -4,7 +4,7 @@
 Hello! My name is Fardeen Khan, and I am from Kadapa, Andhra Pradesh. I have completed my B.Tech in Electronics and Communication Engineering (ECE). I am passionate about technology and have honed my skills in Python, SQL, HTML, CSS, and AWS through my academic journey and hands-on projects.
 
 ## Skills
-- **Programming Languages:** Python, Java, SQL, HTML, CSS,JavaScript
+- **Programming Languages:** Python, Java, SQL, HTML, CSS, JavaScript
 - **Cloud Computing:** AWS (Amazon Web Services)
 - **Web Development:** Front-end design and development
 - **Database Management:** SQL databases
