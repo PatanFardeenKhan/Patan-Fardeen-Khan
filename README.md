@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Patan Fardeen Khan</h1>
-<h3 align="center">An enthusiastic and detail-oriented Electronics and Communication graduate with a solid foundation in programming, algorithms, and problem-solving. Eager to contribute my technical skills and innovative mindset to a dynamic team in a challenging software development role.</h3>
+<h3 align="center">
+An enthusiastic and detail-oriented Electronics and Communication graduate with a solid foundation in programming, algorithms, and problem-solving. 
+Eager to contribute my technical skills and innovative mindset to a dynamic team in a challenging software development role.
+</h3>
 
 ---
 
@@ -7,7 +10,7 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/PatanFardeenKhan/PatanFardeenKhan/main/MyPic.jpg" 
         alt="Fardeen Khan" width="200" height="200" style="border-radius:50%;" />
-    <img align="center" alt="Coding" width="400"
+    <img align="center" alt="Coding" width="350"
         src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
@@ -50,15 +53,6 @@
     <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/></a>
     <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
     <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
-</p>
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=PatanFardeenKhan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatanFardeenKhan&theme=tokyonight" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PatanFardeenKhan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
