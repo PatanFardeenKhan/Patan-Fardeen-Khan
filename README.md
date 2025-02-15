@@ -8,8 +8,7 @@
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/PatanFardeenKhan/PatanFardeenKhan/main/SAVE_20240713_244637.jpg" 
-    alt="Fardeen Khan" width="100" height="100" />
-    <strong>P.Fardeen Khan</strong>
+    alt="Fardeen Khan" width="300" height="300" />
 </p>
 
 - 🌱 I'm currently learning **Java**  
