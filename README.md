@@ -9,7 +9,7 @@
 <p align="left">
     <img src="https://raw.githubusercontent.com/PatanFardeenKhan/PatanFardeenKhan/main/SAVE_20240713_244637.jpg" 
     alt="Fardeen Khan" width="100" height="100" />
-    <strong>Fardeen Khan</strong>
+    <strong>P.Fardeen Khan</strong>
 </p>
 
 - 🌱 I'm currently learning **Java**  
