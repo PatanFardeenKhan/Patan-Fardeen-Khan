@@ -7,7 +7,7 @@
 
 
 <p align="left">
-    <img src="D:\IMAGES\Myoics\SAVE_20240713_244637.jpg" alt="Fardeen Khan" width="100" height="100" />
+    <img src=SAVE_20240713_244637.jpg" alt="Fardeen Khan" width="100" height="100" />
     <strong>Fardeen Khan</strong>
 </p>
 
@@ -77,6 +77,4 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=patanfardeenkhan&show_icons=true&locale=en&layout=compact"
         alt="patanfardeenkhan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patanfardeenkhan&"
-        alt="patanfardeenkhan" /></p>
 
