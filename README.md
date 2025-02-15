@@ -7,7 +7,8 @@
 
 
 <p align="left">
-    <img src=SAVE_20240713_244637.jpg" alt="Fardeen Khan" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/PatanFardeenKhan/FardeenKhan/main/SAVE_20240713_244637.jpg" 
+    alt="Fardeen Khan" width="100" height="100" />
     <strong>Fardeen Khan</strong>
 </p>
 
