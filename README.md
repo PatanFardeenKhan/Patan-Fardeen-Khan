@@ -1,44 +1,38 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)](https://shaik-mynuddin-portfolio.netlify.app/)
-<h1 align="center">Hi 👋, I'm Shaik Mynuddin</h1>
-<h3 align="center">Enthusiastic and detail-oriented Computer Science graduate with a solid foundation in programming,
+<h1 align="center">Hi 👋, I'm Patan Fardeen Khan</h1>
+<h3 align="center">Enthusiastic and detail-oriented Electronics and Communication graduate with a solid foundation in programming,
     algorithms, and problem-solving. Eager to contribute my technical skills and innovative mindset to a dynamic team in
     a challenging software development role.</h3>
 <img align="right" alt="Coding" width="400"
     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=shaikmynuddin&label=Profile%20views&color=0e75b6&style=flat"
-        alt="shaikmynuddin" /> </p>
+<p align="left">
+    <img src="D:\IMAGES\Myoics\SAVE_20240713_244637.jpg" alt="Fardeen Khan" width="100" height="100" />
+    <strong>Fardeen Khan</strong>
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱I'm currently learning **Java**
 
-- 👨‍💻 Portfolio
-[https://shaik-mynuddin-portfolio.netlify.app/](https://shaik-mynuddin-portfolio.netlify.app/)
-
 - 💬 Ask me about **MERN, problem solving**
 
-- 📫 How to reach me **mynuddinshaik82@gmail.com**
+- 📫 How to reach me **pathanfardeen555@gmail.com**
 
 - 📄 Resume
-[https://shaik-mynuddin-portfolio.netlify.app/assets/resume-example.pdf](https://shaik-mynuddin-portfolio.netlify.app/assets/resume-example.pdf)
-
+    (https://drive.google.com/file/d/1rsi781SEanaswJMWL3eeJ3p1mRrh3OWN/view?usp=drive_link)
 - ⚡ Fun fact **I'm Foodie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/www.linkedin.com/in/shaik-mynuddin5f1/" target="blank"><img align="center"
+    <a href="www.linkedin.com/in/patan-fardeen-khan-105220312"target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="www.linkedin.com/in/shaik-mynuddin5f1/" height="30" width="40" /></a>
-    <a href="https://fb.com/mynu shaik" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="mynu shaik" height="30" width="40" /></a>
-    <a href="https://instagram.com/mynushaik__" target="blank"><img align="center"
+            alt=www.linkedin.com/in/patan-fardeen-khan-105220312 height="30" width="40" /></a>
+    <a href="https://www.instagram.com/fardeen_khan05/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="mynushaik__" height="30" width="40" /></a>
+            alt="fardeenkhan_05" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -80,9 +74,9 @@
             alt="react" width="40" height="40" /> </a> </p>
 
 <p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=shaikmynuddin&show_icons=true&locale=en&layout=compact"
-        alt="shaikmynuddin" /></p>
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=patanfardeenkhan&show_icons=true&locale=en&layout=compact"
+        alt="patanfardeenkhan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikmynuddin&"
-        alt="shaikmynuddin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patanfardeenkhan&"
+        alt="patanfardeenkhan" /></p>
 
