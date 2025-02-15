@@ -5,7 +5,7 @@
 
 <!-- Profile Image and GIF -->
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PatanFardeenKhan/PatanFardeenKhan/main/SAVE_20240713_244637.jpg" 
+    <img src="https://raw.githubusercontent.com/PatanFardeenKhan/PatanFardeenKhan/main/MyPic.jpg" 
         alt="Fardeen Khan" width="200" height="200" style="border-radius:50%;" />
     <img align="center" alt="Coding" width="400"
         src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
