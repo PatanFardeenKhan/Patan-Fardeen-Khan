@@ -7,7 +7,7 @@
     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/PatanFardeenKhan/FardeenKhan/main/SAVE_20240713_244637.jpg" 
+    <img src="https://raw.githubusercontent.com/PatanFardeenKhan/PatanFardeenKhan/main/SAVE_20240713_244637.jpg" 
     alt="Fardeen Khan" width="100" height="100" />
     <strong>Fardeen Khan</strong>
 </p>
