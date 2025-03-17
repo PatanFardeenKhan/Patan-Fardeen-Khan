@@ -8,7 +8,7 @@ Eager to contribute my technical skills and innovative mindset to a dynamic team
 
 <!-- Profile Image and GIF -->
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PatanFardeenKhan/PatanFardeenKhan/main/MyPic(1).jpg" 
+    <img src="https://raw.githubusercontent.com/PatanFardeenKhan/PatanFardeenKhan/main/MyPic (1).jpg" 
         alt="Fardeen Khan" width="200" height="200" style="border-radius:50%;" />
     <img align="center" alt="Coding" width="350"
         src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
